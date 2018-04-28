@@ -1,0 +1,20 @@
+@import url(http://fonts.googleapis.com/css?family=Varela+Round);
+
+body{
+  font-family:'Varela Round';
+  background-color: #FFCA75;
+  margin:0;
+}
+
+#logo
+{
+  color:white;
+  width: 100%;
+  background-color: #0047AB;
+  background-image: -webkit-linear-gradient(#2c83ff,#0063ed 50%,#005cde 50%,#0047AB);
+  background-image: -moz-linear-gradient(top,#2c83ff,#0063ed 50%,#005cde 50%,#0047AB);
+  background-image: -ms-linear-gradient(#2c83ff,#0063ed 50%,#005cde 50%,#0047AB);
+  background-image: -o-linear-gradient(#2c83ff,#0063ed 50%,#005cde 50%,#0047AB);
+  background-image: linear-gradient(#2c83ff,#0063ed 50%,#005cde 50%,#0047AB);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#2c83ff', endColorstr='#0047ab', GradientType=0);
+}
